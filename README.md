@@ -3,7 +3,7 @@ This repository contains Matlab code and example array data for demonstrating co
 Michael D. Gray and Constantin C. Coussios, in review (as of 08Sep2022) at IEEE UFFC.
 
 This demonstration uses simulated backscatter data from a point source on the central axis of a C52v curvilinear array.
-Signals were propagated through a two-layer model consisting of a fast (eg muscle/liver) ambient medium and a peripheral layer of slow (eg fat) material.
+Signals were propagated through a two-layer model consisting of a fast (muscle/liver) ambient medium and a peripheral layer of slow (fat) material.
 
 The top level script is code_for_PAX_paper_08Sep2022.m, and it calls the following additional functions:
   teaImg_08Sep2022.m: creates a Time Exposure Acoustics image using conventional passive beamforming
