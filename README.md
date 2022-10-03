@@ -1,6 +1,6 @@
 # PAX
 This repository contains Matlab code and example array data for demonstrating co-registration of PAM and B-mode ultrasound images using the PAX method, as described in "PAX (passive-active crossing) Method for Sub-Millimeter Co-registration of Passive Acoustic Mapping and B-mode Images"
-Michael D. Gray and Constantin C. Coussios, in review (as of 08Sep2022) at IEEE UFFC.
+Michael D. Gray and Constantin C. Coussios, accepted for publication in IEEE UFFC.
 
 This demonstration uses simulated backscatter data from a point source on the central axis of a C52v curvilinear array.
 Signals were propagated through a two-layer model consisting of a fast (muscle/liver) ambient medium and a peripheral layer of slow (fat) material.
